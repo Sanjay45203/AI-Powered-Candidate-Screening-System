@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+credentials.json
+token.json
+*.log
+outputs/
+data/resumes/*
+data/audio/*
+!data/resumes/.gitkeep
+!data/audio/.gitkeep
+.pytest_cache/
+.DS_Store

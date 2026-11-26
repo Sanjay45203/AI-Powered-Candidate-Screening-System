@@ -1,0 +1,8 @@
+Example role: Junior Data Analyst
+Required criteria:
+- Python programming
+- SQL querying
+- Data cleaning and analysis
+- Communicating analytical findings
+
+Replace with the actual job description before screening.
